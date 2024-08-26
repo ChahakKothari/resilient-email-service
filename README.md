@@ -51,8 +51,8 @@ json
 
 Response: Email process initiated.
 GET /statuses: Retrieves the statuses of email sending attempts.
+![Screenshot (1298)](https://github.com/user-attachments/assets/5628b628-ed2c-46e9-be2b-5c734dac557b)
 
-![Screenshot (1297)](https://github.com/user-attachments/assets/c2478ee4-63e8-4322-89a0-79047818398d)
 
 
 # Testing
