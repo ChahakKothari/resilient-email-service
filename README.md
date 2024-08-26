@@ -36,6 +36,9 @@ bash
 # POST /send-email: Sends an email.
 ![Screenshot (1294)](https://github.com/user-attachments/assets/53d41113-4df8-44f2-8940-6403468deffa)
 
+![Screenshot (1297)](https://github.com/user-attachments/assets/06b14ca2-7041-4fea-9a80-f2391548c4fa)
+
+
 
 Request body:
 json
@@ -49,12 +52,15 @@ json
 Response: Email process initiated.
 GET /statuses: Retrieves the statuses of email sending attempts.
 
-![Screenshot (1295)](https://github.com/user-attachments/assets/22b6ca85-f36e-4120-80a7-891f21106fa2)
+![Screenshot (1297)](https://github.com/user-attachments/assets/c2478ee4-63e8-4322-89a0-79047818398d)
+
 
 # Testing
 Run tests:
 bash
 # npm test
+![Screenshot (1300)](https://github.com/user-attachments/assets/f995880c-f877-4b0a-9a69-bb4fae802868)
+![Screenshot (1301)](https://github.com/user-attachments/assets/8f7b4569-859b-4ad5-b184-53ec65e4fadc)
 
 Tests cover idempotency, retry mechanism, and fallback logic.
 
