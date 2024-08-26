@@ -9,8 +9,6 @@ This project implements a resilient email sending service in TypeScript/JavaScri
 - **Idempotency**: Ensures that emails are not sent multiple times.
 - **Rate Limiting**: Limits the number of emails that can be sent within a minute.
 - **Status Tracking**: Tracks the status of email sending attempts.
-- **Circuit Breaker Pattern** (To be implemented): Stops using a provider temporarily after repeated failures.
-- **Structured Logging** (To be implemented): Improved logging with different log levels.
 
 ## Setup Instructions
 
